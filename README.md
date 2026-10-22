@@ -1,1 +1,1 @@
-# ai-engineerind-course
+# ai-engineering-course
